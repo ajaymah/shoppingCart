@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "title": "Men's Running Shoes",
+      "description": "Lightweight running shoes designed for daily training.",
+      "price": 69.99,
+      "currency": "USD",
+      "category": "Shoes",
+      "brand": "SprintX",
+      "rating": 4.5,
+      "stock": 42,
+      "imageUrl": "https://placehold.co/400x400?text=Running+Shoes",
+      "thumbnail": "https://placehold.co/200x200?text=Running",
+      "tags": ["sports", "running", "fitness"]
+    },
+    {
+      "id": 102,
+      "title": "Women's Casual Sneakers",
+      "description": "Comfortable sneakers suitable for everyday wear.",
+      "price": 59.99,
+      "currency": "USD",
+      "category": "Shoes",
+      "brand": "UrbanWalk",
+      "rating": 4.2,
+      "stock": 33,
+      "imageUrl": "https://placehold.co/400x400?text=Casual+Sneakers",
+      "thumbnail": "https://placehold.co/200x200?text=Sneakers",
+      "tags": ["casual", "lifestyle"]
+    },
+    {
+      "id": 103,
+      "title": "Cotton T-Shirt",
+      "description": "Soft and breathable 100% cotton t-shirt available in multiple colors.",
+      "price": 19.99,
+      "currency": "USD",
+      "category": "Clothing",
+      "brand": "LiveWear",
+      "rating": 4.0,
+      "stock": 100,
+      "imageUrl": "https://placehold.co/400x400?text=Cotton+T-Shirt",
+      "thumbnail": "https://placehold.co/200x200?text=T-Shirt",
+      "tags": ["casual", "summer"]
+    },
+    {
+      "id": 104,
+      "title": "Slim Fit Jeans",
+      "description": "Premium stretch denim jeans with a slim fit.",
+      "price": 49.99,
+      "currency": "USD",
+      "category": "Clothing",
+      "brand": "DenimPro",
+      "rating": 4.3,
+      "stock": 57,
+      "imageUrl": "https://placehold.co/400x400?text=Jeans",
+      "thumbnail": "https://placehold.co/200x200?text=Denim",
+      "tags": ["denim", "fashion", "casual"]
+    },
+    {
+      "id": 105,
+      "title": "Smartwatch GT",
+      "description": "Smartwatch with fitness tracking, heart rate monitor, and notifications.",
+      "price": 129.99,
+      "currency": "USD",
+      "category": "Accessories",
+      "brand": "TechPulse",
+      "rating": 4.6,
+      "stock": 18,
+      "imageUrl": "https://placehold.co/400x400?text=Smartwatch",
+      "thumbnail": "https://placehold.co/200x200?text=Watch",
+      "tags": ["electronics", "wearable", "fitness"]
+    }
+  ]
+}
+
